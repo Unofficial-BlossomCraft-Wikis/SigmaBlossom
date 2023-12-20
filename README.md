@@ -3,7 +3,7 @@ SigmaBlossom is based on The SCP foundation's Sigma-10
 
 below is all of the info that was in the file relating to The SCP foundation:
 
-[![Lint](https://github.com/scpwiki/sigma/actions/workflows/lint.yaml/badge.svg)](https://github.com/scpwiki/sigma/actions/workflows/lint.yaml)
+[![Lint](https://github.com/Unofficial-BlossomCraft-Wikis/SigmaBlossom/actions/workflows/lint.yaml/badge.svg)](https://github.com/scpwiki/sigma/actions/workflows/lint.yaml)
 
 This is the repository for the [Sigma-10 theme](https://scpwiki.com/theme:site), the default CSS used to style the [SCP Wiki](https://scpwiki.com). It was originally created by [Aelanna](https://www.wikidot.com/user:info/aelanna) under the name Sigma-9 and is presently maintained by the SCP Wiki Technical Team.
 
