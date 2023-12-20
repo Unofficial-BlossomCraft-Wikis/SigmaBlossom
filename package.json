@@ -7,7 +7,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/scpwiki/sigma"
+    "url": "https://github.com/Unofficial-BlossomCraft-Wikis/SigmaBlossom"
   },
   "devDependencies": {
     "minify": "^9.2.0",
@@ -17,6 +17,7 @@
   },
   "scripts": {
     "build": "./build.sh",
+    "winbuild": "build.bat",
     "clean": "rm -rf dist",
     "minify": "minify sigma.css > dist/css/sigma.min.css",
     "stylelint": "stylelint sigma.css",
