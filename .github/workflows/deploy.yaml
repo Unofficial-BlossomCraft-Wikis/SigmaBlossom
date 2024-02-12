@@ -5,8 +5,8 @@ on:
     branches:
       - main
 
-env:
-  BUCKET_PATH: theme/en/sigma
+# env:
+#   BUCKET_PATH: theme/en/sigma
 
 jobs:
   build-and-deploy:
